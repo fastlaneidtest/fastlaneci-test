@@ -1,0 +1,18 @@
+[
+  {
+    "id": "9140388b-addf-4977-b180-22317ae617aa",
+    "email": "fastlaneidtest@gmail.com",
+    "password_hash": "$2a$10$Al0C1PRDajaSfbGznua3NON3xgF2JjRPXxORHOFJwC6KxtDtvfyw.",
+    "provider_credentials": [
+      {
+        "id": "ce72b663-a4e1-4e68-9e5e-f73c02e38c10",
+        "email": "fastlaneidtest@gmail.com",
+        "full_name": "Clone User credentials",
+        "provider_name": "GitHub",
+        "type": "github",
+        "remote_host": "github.com",
+        "encrypted_api_token": "4F8JzAfggcwl71tSUJLFc4L3pwdLjKFwlCkTX6o4dcVpSZbQ/0vRIVZesCns\nsKz8RlbOeYH5EFIeZIrr4kfKwg==\n"
+      }
+    ]
+  }
+]
